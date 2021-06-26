@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! from gogogo test");
+            Console.WriteLine("Hello World! from gogogo test 改變");
         }
     }
 }
